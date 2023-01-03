@@ -38,5 +38,4 @@ let getCrypto = async function (req, res) {
     }
 }
 
-
 module.exports = { getCrypto }
